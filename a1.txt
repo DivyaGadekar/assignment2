@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 hotfix bug 
+=======
+hi a1  j ygluycoyv
+>>>>>>> dev
